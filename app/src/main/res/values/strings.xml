@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practice1</string>
+    <string name="exam1">EXAM1</string>
+    <string name="exam2">EXAM2</string>
+    <string name="one">하나</string>
+    <string name="two">둘</string>
+    <string name="three">셋</string>
+    <string name="power">전원</string>
+</resources>
